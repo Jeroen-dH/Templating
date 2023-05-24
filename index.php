@@ -8,6 +8,8 @@ foreach($list as $r){
     print $r."<br>";
 }
 
+include "include.php"
+
 
 
 
