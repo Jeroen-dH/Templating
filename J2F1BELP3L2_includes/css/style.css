@@ -1,0 +1,16 @@
+header{
+    margin-right: 10px;
+}
+header form{
+    display: flex;
+}
+header img{
+    width: 50px;
+    height: 50px;
+}
+footer{
+    
+    text-align: center;
+    background-color: gray;
+    width: 100%;
+}
